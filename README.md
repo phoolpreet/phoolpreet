@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm a Computer Vision professional
+# Solution Architect (Computer Vision)
 
 
 ## 🌐 Socials:
