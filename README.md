@@ -6,6 +6,7 @@ I am an experienced Computer Vision and AI professional with 14 years of experti
 
 ### Technical Skills
 Computer Vision • Deep Learning • Machine Learning • Python • C++ • Edge AI
+
 ---
 
 ### Education
