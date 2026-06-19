@@ -1,6 +1,6 @@
 ## Hi there 
 
-I am an experienced Computer Vision and AI professional with 14 years of expertise in deep learning, machine learning, and intelligent vision systems. Passionate about building scalable real-world AI solutions.
+I am an experienced Computer Vision and AI professional with 14 years of expertise in deep learning, machine learning, and intelligent vision systems. Passionate about building scalable real-world AI/CV solutions.
 
 ---
 
